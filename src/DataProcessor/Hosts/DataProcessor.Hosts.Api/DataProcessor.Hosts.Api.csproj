@@ -14,4 +14,8 @@
       <ProjectReference Include="..\..\Infrastructure\DataProcessor.Infrastructure.ComponentRegistrar\DataProcessor.Infrastructure.ComponentRegistrar.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Controllers\" />
+    </ItemGroup>
+
 </Project>

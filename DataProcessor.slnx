@@ -1,0 +1,21 @@
+﻿<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/DataProcessor/" />
+  <Folder Name="/src/DataProcessor/Application/">
+    <Project Path="src\DataProcessor\Application\DataProcessor.Application.AppServices\DataProcessor.Application.AppServices.csproj" Type="Classic C#" />
+  </Folder>
+  <Folder Name="/src/DataProcessor/Contracts/">
+    <Project Path="src\DataProcessor\Contracts\DataProcessor.Contracts\DataProcessor.Contracts.csproj" Type="Classic C#" />
+  </Folder>
+  <Folder Name="/src/DataProcessor/Domain/">
+    <Project Path="src\DataProcessor\Domain\DataProcessor.Domain\DataProcessor.Domain.csproj" Type="Classic C#" />
+  </Folder>
+  <Folder Name="/src/DataProcessor/Hosts/">
+    <Project Path="src\DataProcessor\Hosts\DataProcessor.Hosts.Api\DataProcessor.Hosts.Api.csproj" Type="Classic C#" />
+  </Folder>
+  <Folder Name="/src/DataProcessor/Infrastructure/">
+    <Project Path="src\DataProcessor\Infrastructure\DataProcessor.Infrastructure.ComponentRegistrar\DataProcessor.Infrastructure.ComponentRegistrar.csproj" Type="Classic C#" />
+    <Project Path="src\DataProcessor\Infrastructure\DataProcessor.Infrastructure.DataAccess\DataProcessor.Infrastructure.DataAccess.csproj" Type="Classic C#" />
+    <Project Path="src\DataProcessor\Infrastructure\DataProcessor.Infrastructure\DataProcessor.Infrastructure.csproj" Type="Classic C#" />
+  </Folder>
+</Solution>
